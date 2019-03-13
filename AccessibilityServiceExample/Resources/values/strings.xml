@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AccessibilityServiceExample</string>
+    <string name="action_settings">Settings</string>
+  <string name="service_description">服务测试</string>
+</resources>
